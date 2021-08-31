@@ -1,1 +1,2 @@
 This is first line code created in local git
+This is second line code crated in branch2 
