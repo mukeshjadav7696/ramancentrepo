@@ -1,1 +1,2 @@
 This is first line code in 1.txt added on local git
+This is second linne code
